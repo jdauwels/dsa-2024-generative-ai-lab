@@ -18,17 +18,13 @@ Lecture Plan: Deep Generative AI
 
 11:00 am - 13:00 pm: Lab Session
 
-Background
 - Short Lecture on Neural Networks : [link to slides](https://docs.google.com/presentation/d/1pWtXgvKu_X7_qLYatealikknRJeeGlLD/edit?usp=sharing&ouid=106033496572193449338&rtpof=true&sd=true)
-
-
 - Variational Autoencoders : [theory](https://drive.google.com/file/d/1AGMSI4bW9czul8ArohbL1xEeIDhYYX-_/view) (30 min)
 - Variational Autoencoders : [laboratory](https://colab.research.google.com/drive/1pCLdsbPlCCDvB1QNlQ0RtrRvaS3gomcC?usp=sharing) (90 min)
--  Dataset : MNIST (in code)
+- Dataset : MNIST (in code)
 
 
-Advanced lab (EXTRA)
-
+Advanced lab (EXTRA):
 - PyTorch Basics (30 min) : [labs](https://colab.research.google.com/drive/1-9HCqKTrDDJuLAgXEg2CuE5cZDXeISeO?usp=sharing) and [solutions](https://colab.research.google.com/drive/1ZgqJk2CG8otieorhkxdpxucLbsO6FTUy?usp=sharing)
 - Generative Adversarial Networks (30 min) : [theory](https://drive.google.com/file/d/1cE9lN6t84E5wg5Ffr8-qacYmkswtB346/view?usp=sharing)
 - Generative Adversarial Networks (45 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
@@ -41,5 +37,5 @@ Solutions will be provided after the lab session
 - [Generative Adversarial Networks solution](https://colab.research.google.com/drive/1D1_xaZ5LqhuWWZcOoK3rsrqYPlgk-Ce7?usp=sharing)
 
 
-Talk at Workshop
+Talk at Workshop (optional; 30min)
 - [AI for Monitoring Mental Health](https://drive.google.com/file/d/1VfVm4F_A9KSAwzpLwOjeFmD5AYxkfDMQ/view?usp=sharing)
