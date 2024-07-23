@@ -2,8 +2,6 @@
 
 Lecture Plan: Deep Generative AI
 
-Tuesday - 4th June 2024
-
 9:00 am - 10:30 am: Morning Lecture Session 
 
 - [General Introduction](https://docs.google.com/presentation/d/1-6smG2BvBCiRmqrDpBa2I_fHXFgGopHt/edit?usp=sharing&ouid=106033496572193449338&rtpof=true&sd=true) (90 min)
