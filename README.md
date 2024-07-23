@@ -1,4 +1,4 @@
-# dsa-2024-generative-ai-lab
+# 2024-generative-ai-lab
 
 Lecture Plan: Deep Generative AI
 
