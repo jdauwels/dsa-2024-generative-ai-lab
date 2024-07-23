@@ -18,9 +18,9 @@ Lecture Plan: Deep Generative AI
 
 11:00 am - 13:00 pm: Lab Session
 
-- Short Lecture on Neural Networks : [link to slides](https://docs.google.com/presentation/d/1pWtXgvKu_X7_qLYatealikknRJeeGlLD/edit?usp=sharing&ouid=106033496572193449338&rtpof=true&sd=true)
+- Short Lecture on Neural Networks (30 min): [link to slides](https://docs.google.com/presentation/d/1pWtXgvKu_X7_qLYatealikknRJeeGlLD/edit?usp=sharing&ouid=106033496572193449338&rtpof=true&sd=true)
 - Variational Autoencoders : [theory](https://drive.google.com/file/d/1AGMSI4bW9czul8ArohbL1xEeIDhYYX-_/view) (30 min)
-- Variational Autoencoders : [laboratory](https://colab.research.google.com/drive/1pCLdsbPlCCDvB1QNlQ0RtrRvaS3gomcC?usp=sharing) (90 min)
+- Variational Autoencoders : [laboratory](https://colab.research.google.com/drive/1pCLdsbPlCCDvB1QNlQ0RtrRvaS3gomcC?usp=sharing) (60 min)
 - Dataset : MNIST (in code)
 
 
